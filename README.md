@@ -16,7 +16,7 @@ This repository tracks my structured journey in Python, NumPy, and Data Science.
 
 * [x] Python Basics
 * [x] NumPy Started
-* [ ] Mini Projects
+* [x] Mini Projects
 
 ---
 
